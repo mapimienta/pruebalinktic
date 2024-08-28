@@ -1,0 +1,17 @@
+
+[
+{
+    "nombres":"usuario 1",
+    "apellidos":"apellido 1",
+    "telefono":"30030303",
+    "correo":"m@gmail.com",
+    "nacionalidad":"colombiano"
+},
+{
+    "nombres":"usuario 2",
+    "apellidos":"apellido 2",
+    "telefono":"3003035465",
+    "correo":"c@gmail.com",
+    "nacionalidad":"venezolano"
+}
+]
